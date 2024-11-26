@@ -34,10 +34,17 @@
 
 ---
 
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahmedalghaili&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedalghaili&theme=transparent&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedalghaili&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahYahya&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahYahya&theme=transparent&hide_border=true" alt="GitHub Streak" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahYahya&theme=transparent&hide_border=true&layout=compact&langs_count=6&count_private=true" alt="Top Languages" width="49%" />
+</div>
 
 ---
 
