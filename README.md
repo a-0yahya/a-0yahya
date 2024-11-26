@@ -37,13 +37,21 @@
 
 
 # 📊 GitHub Stats:
+
+![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Progress-blue?style=for-the-badge&logo=github&logoColor=white)<br>
+![Streak Stats](https://img.shields.io/badge/Streak_Stats-Momentum-red?style=for-the-badge&logo=firefoxbrowser&logoColor=white)<br>
+![Top Languages](https://img.shields.io/badge/Top_Languages-Proficiency-green?style=for-the-badge&logo=code&logoColor=white)
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahYahya&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahYahya&theme=transparent&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahYahya&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="70%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahYahya&theme=transparent&hide_border=true&layout=compact&langs_count=6&count_private=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahYahya&theme=transparent&hide_border=true" alt="GitHub Streak" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahYahya&theme=transparent&hide_border=true&layout=compact&langs_count=6&count_private=true" alt="Top Languages" width="70%" />
 </div>
 
 ---
